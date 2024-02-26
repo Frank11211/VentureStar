@@ -32,7 +32,7 @@ namespace Test{
                 string temp2 = Console.ReadLine();
                 item.Category = Convert.ToInt32(temp2);
                 
-                // Whitespace
+                // Whitespace   
                 Console.WriteLine("");
 
                 Products.Add(item); 
